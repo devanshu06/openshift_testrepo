@@ -1,5 +1,5 @@
 <?php
 
-print `ifconfig`;
+print "Successfullly Lanched This webapge using OpenShift ";
 
 ?>
