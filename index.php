@@ -1,5 +1,5 @@
-<? php
+<?php
 
-print "This page is launched on the Openshift !!" ;
+print "This page is launched on the Openshift !!";
 
 ?>
