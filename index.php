@@ -1,6 +1,6 @@
 <?php
 
 print "Successfullly Lanched This webapge using OpenShift ";
-print `ifconfig`;
+print "New Line added to check the autobuild feature";
 
 ?>
